@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Experience Certificate",
+        "icon": "https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/50/000000/external-web-development-coding-kiranshastry-lineal-color-kiranshastry.png",
+        "link": "https://www.linkedin.com/posts/aagman76972_aagman-mehto-activity-7176511747640500224-pPFf?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7092059832500838400-GHrh?utm_source=share&utm_medium=member_desktop"
+    },
+   
+    {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7086569282829975552-aMIr?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7094191482072440832-b0LF?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=48&id=108784&format=png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7107693471162904576-a6uz?utm_source=share&utm_medium=member_desktop"
+    },
+
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=48&id=CgWei7hH4lGJ&format=png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7080452332865429504-Pmw8?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "SpringBoot",
+        "icon": "https://img.icons8.com/?size=48&id=90519&format=png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7099062615821160448-k48v?utm_source=share&utm_medium=member_desktop"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=48&id=9nLaR5KFGjN0&format=png",
+        "link": "https://www.linkedin.com/posts/aagman76972_im-happy-to-share-that-ive-obtained-a-new-activity-7092773215910920192-uZXo?utm_source=share&utm_medium=member_desktop"
+    }
+    
+    
+]

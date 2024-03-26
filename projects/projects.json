@@ -1,0 +1,53 @@
+[
+
+    {
+      "name": "E-Commerce Website",
+      "desc": "Ecommerce Website Using SpringBoot",
+      "image": "Screenshot (212)",
+      "category": "web",
+      "links": {
+        "view": "https://github.com/gladosAagman/E-Commerce-Website-using-Spring-Boot",
+        "code": "https://github.com/gladosAagman/E-Commerce-Website-using-Spring-Boot"
+      }
+    },
+    {
+      "name": "Blog Application ",
+      "desc": "Blog Application Using Spring Boot",
+      "image": "Screenshot (210)",
+      "category": "web",
+      "links": {
+        "view": "https://gladosaagman.github.io/Blog-Full-Stack-Application/",
+        "code": "https://github.com/gladosAagman/Blog-Full-Stack-Application"
+      }
+    },
+    {
+      "name": "NetFlix Clone",
+      "desc": "Netflix Clone using HTML and CSS",
+      "image": "Screenshot (370)",
+      "category": "web",
+      "links": {
+        "view": "https://gladosaagman.github.io/Netflix-Clone-using-HTML-and-CSS/",
+        "code": "https://github.com/gladosAagman/Netflix-Clone-using-HTML-and-CSS"
+      }
+    },
+    {
+      "name": "House Price Prediction",
+      "desc": "House Price Prediction Using Machine Learning ",
+      "image": "Screenshot (2181)",
+      "category": "web",
+      "links": {
+        "view": "https://github.com/gladosAagman/House-Price-Prediction-Using-Machine-Learning",
+        "code": "https://github.com/gladosAagman/House-Price-Prediction-Using-Machine-Learning"
+      }
+    },
+    {
+      "name": "Colmar Academy WebDesign",
+      "desc": "Colmar Academy WebDesign using HTML and CSS",
+      "image": "Screenshot (215)",
+      "category": "web",
+      "links": {
+        "view": "https://github.com/gladosAagman/Colmar-Academy-WebDesign-Task/",
+        "code": "https://github.com/gladosAagman/Colmar-Academy-WebDesign-Task"
+      }
+    }
+  ]
