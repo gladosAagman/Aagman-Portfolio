@@ -59,19 +59,17 @@ $(document).ready(function () {
 document.addEventListener('visibilitychange',
     function () {
         if (document.visibilityState === "visible") {
-            document.title = "Portfolio | Sanket Rahangdale";
+            document.title = "Portfolio | Aagman Mehto";
             $("#favicon").attr("href", "assets/images/favicon.ico");
         }
         else {
-            document.title = "Portfolio | Sanket Rahangdale";
+            document.title = "Portfolio | Aagman Mehto";
             $("#favicon").attr("href", "assets/images/favicon.ico");
         }
     });
-
-
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["android development", "web development" , "backend development"],
+    strings: ["Frontend Development", "Web Development" , "Backend Development"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
